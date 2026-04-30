@@ -1,0 +1,13 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
+openai==1.25.0
+langchain==0.1.16
+langchain-community==0.0.36
+langchain-core==0.1.48
+langchain-text-splitters==0.0.1
+pdfminer.six==20231228
+python-docx==1.1.2
+pydantic==2.7.1
